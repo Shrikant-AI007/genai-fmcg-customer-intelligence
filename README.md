@@ -34,6 +34,9 @@ The objective is to demonstrate how **Generative AI can work together with deter
 > **Portfolio / demonstration project:** all transaction and business data in this repository are synthetic and generated for demonstration. No confidential client data is included.
 
 ---
+## 📸 Application Dashboard
+
+![FMCG Customer Intelligence Dashboard](images/fmcg-dashboard-screenshot.png)
 
 # 🎯 Business Problem
 
