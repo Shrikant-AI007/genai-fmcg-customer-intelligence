@@ -1,0 +1,6 @@
+[
+  {"question":"Why did shampoo sales change?", "expected_topics":["sales","product"]},
+  {"question":"Which products have stock-out risk?", "expected_topics":["inventory"]},
+  {"question":"How should customers be segmented?", "expected_topics":["customer","RFM"]},
+  {"question":"Did promotions improve sales?", "expected_topics":["promotion"]}
+]

@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,FreshGlow Shampoo 250ml,Personal Care,220
+P002,FreshGlow Shampoo 650ml,Personal Care,480
+P003,PureCare Bath Soap 100g,Personal Care,55
+P004,SmileMax Toothpaste 150g,Oral Care,125
+P005,CleanPro Detergent 1kg,Home Care,190
+P006,CleanPro Detergent 2kg,Home Care,350
+P007,CrunchBite Biscuits 200g,Foods,70
+P008,DailyFresh Cooking Oil 1L,Foods,160
+P009,DailyFresh Cooking Oil 5L,Foods,720
+P010,CoolFizz Beverage 750ml,Beverages,65
